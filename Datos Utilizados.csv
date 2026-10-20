@@ -1,0 +1,176 @@
+﻿ID_Producto;Producto;Categoria;Sucursal;Precio_Unitario_USD;Cantidad;Stock_Minimo;Proveedor;Valor_Inventario_USD;Estado_Stock
+P001;Laptop Ryzen 5;Tecnología;San Salvador;699;31;8;TecnoSV;21669;Adecuado
+P001;Laptop Ryzen 5;Tecnología;Santa Ana;699;18;8;TecnoSV;12582;Adecuado
+P001;Laptop Ryzen 5;Tecnología;San Miguel;699;1;8;TecnoSV;699;Bajo
+P001;Laptop Ryzen 5;Tecnología;La Libertad;699;20;8;TecnoSV;13980;Adecuado
+P001;Laptop Ryzen 5;Tecnología;Sonsonate;699;10;8;TecnoSV;6990;Adecuado
+P002;Monitor LED 24 pulgadas;Tecnología;San Salvador;149.99;0;12;TecnoSV;0;Agotado
+P002;Monitor LED 24 pulgadas;Tecnología;Santa Ana;149.99;14;12;TecnoSV;2099.86;Adecuado
+P002;Monitor LED 24 pulgadas;Tecnología;San Miguel;149.99;2;12;TecnoSV;299.98;Bajo
+P002;Monitor LED 24 pulgadas;Tecnología;La Libertad;149.99;32;12;TecnoSV;4799.68;Adecuado
+P002;Monitor LED 24 pulgadas;Tecnología;Sonsonate;149.99;18;12;TecnoSV;2699.82;Adecuado
+P003;Teclado inalámbrico;Tecnología;San Salvador;21.5;2;18;CompuDistrib;43;Bajo
+P003;Teclado inalámbrico;Tecnología;Santa Ana;21.5;4;18;CompuDistrib;86;Bajo
+P003;Teclado inalámbrico;Tecnología;San Miguel;21.5;35;18;CompuDistrib;752.5;Adecuado
+P003;Teclado inalámbrico;Tecnología;La Libertad;21.5;35;18;CompuDistrib;752.5;Adecuado
+P003;Teclado inalámbrico;Tecnología;Sonsonate;21.5;24;18;CompuDistrib;516;Adecuado
+P004;Mouse ergonómico;Tecnología;San Salvador;16.75;48;20;CompuDistrib;804;Adecuado
+P004;Mouse ergonómico;Tecnología;Santa Ana;16.75;25;20;CompuDistrib;418.75;Adecuado
+P004;Mouse ergonómico;Tecnología;San Miguel;16.75;33;20;CompuDistrib;552.75;Adecuado
+P004;Mouse ergonómico;Tecnología;La Libertad;16.75;19;20;CompuDistrib;318.25;Bajo
+P004;Mouse ergonómico;Tecnología;Sonsonate;16.75;36;20;CompuDistrib;603;Adecuado
+P005;Audífonos Bluetooth;Tecnología;San Salvador;38;45;16;TecnoSV;1710;Adecuado
+P005;Audífonos Bluetooth;Tecnología;Santa Ana;38;6;16;TecnoSV;228;Bajo
+P005;Audífonos Bluetooth;Tecnología;San Miguel;38;10;16;TecnoSV;380;Bajo
+P005;Audífonos Bluetooth;Tecnología;La Libertad;38;20;16;TecnoSV;760;Adecuado
+P005;Audífonos Bluetooth;Tecnología;Sonsonate;38;1;16;TecnoSV;38;Bajo
+P006;Memoria USB 64 GB;Tecnología;San Salvador;12.5;46;22;CompuDistrib;575;Adecuado
+P006;Memoria USB 64 GB;Tecnología;Santa Ana;12.5;47;22;CompuDistrib;587.5;Adecuado
+P006;Memoria USB 64 GB;Tecnología;San Miguel;12.5;34;22;CompuDistrib;425;Adecuado
+P006;Memoria USB 64 GB;Tecnología;La Libertad;12.5;0;22;CompuDistrib;0;Agotado
+P006;Memoria USB 64 GB;Tecnología;Sonsonate;12.5;50;22;CompuDistrib;625;Adecuado
+P007;Router Wi-Fi;Tecnología;San Salvador;55;44;12;TecnoSV;2420;Adecuado
+P007;Router Wi-Fi;Tecnología;Santa Ana;55;16;12;TecnoSV;880;Adecuado
+P007;Router Wi-Fi;Tecnología;San Miguel;55;24;12;TecnoSV;1320;Adecuado
+P007;Router Wi-Fi;Tecnología;La Libertad;55;32;12;TecnoSV;1760;Adecuado
+P007;Router Wi-Fi;Tecnología;Sonsonate;55;8;12;TecnoSV;440;Bajo
+P008;Impresora multifuncional;Tecnología;San Salvador;189;20;7;CompuDistrib;3780;Adecuado
+P008;Impresora multifuncional;Tecnología;Santa Ana;189;21;7;CompuDistrib;3969;Adecuado
+P008;Impresora multifuncional;Tecnología;San Miguel;189;1;7;CompuDistrib;189;Bajo
+P008;Impresora multifuncional;Tecnología;La Libertad;189;15;7;CompuDistrib;2835;Adecuado
+P008;Impresora multifuncional;Tecnología;Sonsonate;189;6;7;CompuDistrib;1134;Bajo
+P009;Lámpara LED escritorio;Hogar;San Salvador;26.9;57;14;CasaTotal;1533.3;Adecuado
+P009;Lámpara LED escritorio;Hogar;Santa Ana;26.9;23;14;CasaTotal;618.7;Adecuado
+P009;Lámpara LED escritorio;Hogar;San Miguel;26.9;19;14;CasaTotal;511.1;Adecuado
+P009;Lámpara LED escritorio;Hogar;La Libertad;26.9;0;14;CasaTotal;0;Agotado
+P009;Lámpara LED escritorio;Hogar;Sonsonate;26.9;19;14;CasaTotal;511.1;Adecuado
+P010;Ventilador de mesa;Hogar;San Salvador;42;43;12;CasaTotal;1806;Adecuado
+P010;Ventilador de mesa;Hogar;Santa Ana;42;21;12;CasaTotal;882;Adecuado
+P010;Ventilador de mesa;Hogar;San Miguel;42;0;12;CasaTotal;0;Agotado
+P010;Ventilador de mesa;Hogar;La Libertad;42;33;12;CasaTotal;1386;Adecuado
+P010;Ventilador de mesa;Hogar;Sonsonate;42;20;12;CasaTotal;840;Adecuado
+P011;Cafetera eléctrica;Hogar;San Salvador;69.9;30;9;CasaTotal;2097;Adecuado
+P011;Cafetera eléctrica;Hogar;Santa Ana;69.9;16;9;CasaTotal;1118.4;Adecuado
+P011;Cafetera eléctrica;Hogar;San Miguel;69.9;19;9;CasaTotal;1328.1;Adecuado
+P011;Cafetera eléctrica;Hogar;La Libertad;69.9;2;9;CasaTotal;139.8;Bajo
+P011;Cafetera eléctrica;Hogar;Sonsonate;69.9;8;9;CasaTotal;559.2;Bajo
+P012;Licuadora 1.5 litros;Hogar;San Salvador;54.75;16;11;HogarPlus;876;Adecuado
+P012;Licuadora 1.5 litros;Hogar;Santa Ana;54.75;34;11;HogarPlus;1861.5;Adecuado
+P012;Licuadora 1.5 litros;Hogar;San Miguel;54.75;29;11;HogarPlus;1587.75;Adecuado
+P012;Licuadora 1.5 litros;Hogar;La Libertad;54.75;18;11;HogarPlus;985.5;Adecuado
+P012;Licuadora 1.5 litros;Hogar;Sonsonate;54.75;15;11;HogarPlus;821.25;Adecuado
+P013;Organizador plástico;Hogar;San Salvador;15;79;24;HogarPlus;1185;Adecuado
+P013;Organizador plástico;Hogar;Santa Ana;15;74;24;HogarPlus;1110;Adecuado
+P013;Organizador plástico;Hogar;San Miguel;15;48;24;HogarPlus;720;Adecuado
+P013;Organizador plástico;Hogar;La Libertad;15;26;24;HogarPlus;390;Adecuado
+P013;Organizador plástico;Hogar;Sonsonate;15;27;24;HogarPlus;405;Adecuado
+P014;Juego de vasos;Hogar;San Salvador;18.5;81;20;CasaTotal;1498.5;Adecuado
+P014;Juego de vasos;Hogar;Santa Ana;18.5;52;20;CasaTotal;962;Adecuado
+P014;Juego de vasos;Hogar;San Miguel;18.5;50;20;CasaTotal;925;Adecuado
+P014;Juego de vasos;Hogar;La Libertad;18.5;28;20;CasaTotal;518;Adecuado
+P014;Juego de vasos;Hogar;Sonsonate;18.5;2;20;CasaTotal;37;Bajo
+P015;Cuaderno universitario;Papelería;San Salvador;3.25;21;38;PapelExpress;68.25;Bajo
+P015;Cuaderno universitario;Papelería;Santa Ana;3.25;107;38;PapelExpress;347.75;Adecuado
+P015;Cuaderno universitario;Papelería;San Miguel;3.25;33;38;PapelExpress;107.25;Bajo
+P015;Cuaderno universitario;Papelería;La Libertad;3.25;82;38;PapelExpress;266.5;Adecuado
+P015;Cuaderno universitario;Papelería;Sonsonate;3.25;44;38;PapelExpress;143;Adecuado
+P016;Bolígrafo azul caja;Papelería;San Salvador;6.8;20;35;PapelExpress;136;Bajo
+P016;Bolígrafo azul caja;Papelería;Santa Ana;6.8;54;35;PapelExpress;367.2;Adecuado
+P016;Bolígrafo azul caja;Papelería;San Miguel;6.8;91;35;PapelExpress;618.8;Adecuado
+P016;Bolígrafo azul caja;Papelería;La Libertad;6.8;30;35;PapelExpress;204;Bajo
+P016;Bolígrafo azul caja;Papelería;Sonsonate;6.8;57;35;PapelExpress;387.6;Adecuado
+P017;Resma papel carta;Papelería;San Salvador;7.25;0;32;OfiMayorista;0;Agotado
+P017;Resma papel carta;Papelería;Santa Ana;7.25;22;32;OfiMayorista;159.5;Bajo
+P017;Resma papel carta;Papelería;San Miguel;7.25;58;32;OfiMayorista;420.5;Adecuado
+P017;Resma papel carta;Papelería;La Libertad;7.25;9;32;OfiMayorista;65.25;Bajo
+P017;Resma papel carta;Papelería;Sonsonate;7.25;54;32;OfiMayorista;391.5;Adecuado
+P018;Carpeta archivadora;Papelería;San Salvador;4.9;34;30;OfiMayorista;166.6;Adecuado
+P018;Carpeta archivadora;Papelería;Santa Ana;4.9;94;30;OfiMayorista;460.6;Adecuado
+P018;Carpeta archivadora;Papelería;San Miguel;4.9;56;30;OfiMayorista;274.4;Adecuado
+P018;Carpeta archivadora;Papelería;La Libertad;4.9;39;30;OfiMayorista;191.1;Adecuado
+P018;Carpeta archivadora;Papelería;Sonsonate;4.9;17;30;OfiMayorista;83.3;Bajo
+P019;Marcadores permanentes;Papelería;San Salvador;5.7;38;30;PapelExpress;216.6;Adecuado
+P019;Marcadores permanentes;Papelería;Santa Ana;5.7;0;30;PapelExpress;0;Agotado
+P019;Marcadores permanentes;Papelería;San Miguel;5.7;44;30;PapelExpress;250.8;Adecuado
+P019;Marcadores permanentes;Papelería;La Libertad;5.7;67;30;PapelExpress;381.9;Adecuado
+P019;Marcadores permanentes;Papelería;Sonsonate;5.7;52;30;PapelExpress;296.4;Adecuado
+P020;Cinta adhesiva;Papelería;San Salvador;2.2;50;35;OfiMayorista;110;Adecuado
+P020;Cinta adhesiva;Papelería;Santa Ana;2.2;68;35;OfiMayorista;149.6;Adecuado
+P020;Cinta adhesiva;Papelería;San Miguel;2.2;0;35;OfiMayorista;0;Agotado
+P020;Cinta adhesiva;Papelería;La Libertad;2.2;48;35;OfiMayorista;105.6;Adecuado
+P020;Cinta adhesiva;Papelería;Sonsonate;2.2;25;35;OfiMayorista;55;Bajo
+P021;Arroz 5 libras;Alimentos;San Salvador;5.6;42;35;AlimentosSV;235.2;Adecuado
+P021;Arroz 5 libras;Alimentos;Santa Ana;5.6;78;35;AlimentosSV;436.8;Adecuado
+P021;Arroz 5 libras;Alimentos;San Miguel;5.6;101;35;AlimentosSV;565.6;Adecuado
+P021;Arroz 5 libras;Alimentos;La Libertad;5.6;16;35;AlimentosSV;89.6;Bajo
+P021;Arroz 5 libras;Alimentos;Sonsonate;5.6;56;35;AlimentosSV;313.6;Adecuado
+P022;Azúcar 2 libras;Alimentos;San Salvador;2.1;17;38;AlimentosSV;35.7;Bajo
+P022;Azúcar 2 libras;Alimentos;Santa Ana;2.1;88;38;AlimentosSV;184.8;Adecuado
+P022;Azúcar 2 libras;Alimentos;San Miguel;2.1;89;38;AlimentosSV;186.9;Adecuado
+P022;Azúcar 2 libras;Alimentos;La Libertad;2.1;93;38;AlimentosSV;195.3;Adecuado
+P022;Azúcar 2 libras;Alimentos;Sonsonate;2.1;39;38;AlimentosSV;81.9;Adecuado
+P023;Café molido 400 g;Alimentos;San Salvador;6.75;6;30;Distribuciones Cima;40.5;Bajo
+P023;Café molido 400 g;Alimentos;Santa Ana;6.75;1;30;Distribuciones Cima;6.75;Bajo
+P023;Café molido 400 g;Alimentos;San Miguel;6.75;67;30;Distribuciones Cima;452.25;Adecuado
+P023;Café molido 400 g;Alimentos;La Libertad;6.75;49;30;Distribuciones Cima;330.75;Adecuado
+P023;Café molido 400 g;Alimentos;Sonsonate;6.75;57;30;Distribuciones Cima;384.75;Adecuado
+P024;Aceite vegetal 900 ml;Alimentos;San Salvador;3.9;19;32;AlimentosSV;74.1;Bajo
+P024;Aceite vegetal 900 ml;Alimentos;Santa Ana;3.9;79;32;AlimentosSV;308.1;Adecuado
+P024;Aceite vegetal 900 ml;Alimentos;San Miguel;3.9;63;32;AlimentosSV;245.7;Adecuado
+P024;Aceite vegetal 900 ml;Alimentos;La Libertad;3.9;12;32;AlimentosSV;46.8;Bajo
+P024;Aceite vegetal 900 ml;Alimentos;Sonsonate;3.9;50;32;AlimentosSV;195;Adecuado
+P025;Galletas surtidas;Alimentos;San Salvador;2.45;9;40;Distribuciones Cima;22.05;Bajo
+P025;Galletas surtidas;Alimentos;Santa Ana;2.45;49;40;Distribuciones Cima;120.05;Adecuado
+P025;Galletas surtidas;Alimentos;San Miguel;2.45;91;40;Distribuciones Cima;222.95;Adecuado
+P025;Galletas surtidas;Alimentos;La Libertad;2.45;19;40;Distribuciones Cima;46.55;Bajo
+P025;Galletas surtidas;Alimentos;Sonsonate;2.45;58;40;Distribuciones Cima;142.1;Adecuado
+P026;Agua embotellada 1 L;Alimentos;San Salvador;0.85;140;48;Distribuciones Cima;119;Adecuado
+P026;Agua embotellada 1 L;Alimentos;Santa Ana;0.85;147;48;Distribuciones Cima;124.95;Adecuado
+P026;Agua embotellada 1 L;Alimentos;San Miguel;0.85;104;48;Distribuciones Cima;88.4;Adecuado
+P026;Agua embotellada 1 L;Alimentos;La Libertad;0.85;39;48;Distribuciones Cima;33.15;Bajo
+P026;Agua embotellada 1 L;Alimentos;Sonsonate;0.85;71;48;Distribuciones Cima;60.35;Adecuado
+P027;Detergente 1 kg;Limpieza;San Salvador;4.8;80;32;LimpioMax;384;Adecuado
+P027;Detergente 1 kg;Limpieza;Santa Ana;4.8;55;32;LimpioMax;264;Adecuado
+P027;Detergente 1 kg;Limpieza;San Miguel;4.8;71;32;LimpioMax;340.8;Adecuado
+P027;Detergente 1 kg;Limpieza;La Libertad;4.8;83;32;LimpioMax;398.4;Adecuado
+P027;Detergente 1 kg;Limpieza;Sonsonate;4.8;62;32;LimpioMax;297.6;Adecuado
+P028;Desinfectante 1 L;Limpieza;San Salvador;3.7;19;30;LimpioMax;70.3;Bajo
+P028;Desinfectante 1 L;Limpieza;Santa Ana;3.7;77;30;LimpioMax;284.9;Adecuado
+P028;Desinfectante 1 L;Limpieza;San Miguel;3.7;25;30;LimpioMax;92.5;Bajo
+P028;Desinfectante 1 L;Limpieza;La Libertad;3.7;40;30;LimpioMax;148;Adecuado
+P028;Desinfectante 1 L;Limpieza;Sonsonate;3.7;61;30;LimpioMax;225.7;Adecuado
+P029;Jabón líquido 500 ml;Limpieza;San Salvador;3.25;97;30;HigienePlus;315.25;Adecuado
+P029;Jabón líquido 500 ml;Limpieza;Santa Ana;3.25;25;30;HigienePlus;81.25;Bajo
+P029;Jabón líquido 500 ml;Limpieza;San Miguel;3.25;20;30;HigienePlus;65;Bajo
+P029;Jabón líquido 500 ml;Limpieza;La Libertad;3.25;77;30;HigienePlus;250.25;Adecuado
+P029;Jabón líquido 500 ml;Limpieza;Sonsonate;3.25;6;30;HigienePlus;19.5;Bajo
+P030;Toallas de papel;Limpieza;San Salvador;2.85;132;35;HigienePlus;376.2;Adecuado
+P030;Toallas de papel;Limpieza;Santa Ana;2.85;5;35;HigienePlus;14.25;Bajo
+P030;Toallas de papel;Limpieza;San Miguel;2.85;80;35;HigienePlus;228;Adecuado
+P030;Toallas de papel;Limpieza;La Libertad;2.85;93;35;HigienePlus;265.05;Adecuado
+P030;Toallas de papel;Limpieza;Sonsonate;2.85;53;35;HigienePlus;151.05;Adecuado
+P031;Escoba doméstica;Limpieza;San Salvador;5.9;53;20;LimpioMax;312.7;Adecuado
+P031;Escoba doméstica;Limpieza;Santa Ana;5.9;55;20;LimpioMax;324.5;Adecuado
+P031;Escoba doméstica;Limpieza;San Miguel;5.9;28;20;LimpioMax;165.2;Adecuado
+P031;Escoba doméstica;Limpieza;La Libertad;5.9;9;20;LimpioMax;53.1;Bajo
+P031;Escoba doméstica;Limpieza;Sonsonate;5.9;34;20;LimpioMax;200.6;Adecuado
+P032;Bolsas para basura;Limpieza;San Salvador;3.5;138;34;HigienePlus;483;Adecuado
+P032;Bolsas para basura;Limpieza;Santa Ana;3.5;105;34;HigienePlus;367.5;Adecuado
+P032;Bolsas para basura;Limpieza;San Miguel;3.5;44;34;HigienePlus;154;Adecuado
+P032;Bolsas para basura;Limpieza;La Libertad;3.5;87;34;HigienePlus;304.5;Adecuado
+P032;Bolsas para basura;Limpieza;Sonsonate;3.5;65;34;HigienePlus;227.5;Adecuado
+P033;Balón de fútbol;Deportes;San Salvador;24.9;55;14;SportSV;1369.5;Adecuado
+P033;Balón de fútbol;Deportes;Santa Ana;24.9;42;14;SportSV;1045.8;Adecuado
+P033;Balón de fútbol;Deportes;San Miguel;24.9;40;14;SportSV;996;Adecuado
+P033;Balón de fútbol;Deportes;La Libertad;24.9;9;14;SportSV;224.1;Bajo
+P033;Balón de fútbol;Deportes;Sonsonate;24.9;19;14;SportSV;473.1;Adecuado
+P034;Botella deportiva;Deportes;San Salvador;9.75;88;23;SportSV;858;Adecuado
+P034;Botella deportiva;Deportes;Santa Ana;9.75;49;23;SportSV;477.75;Adecuado
+P034;Botella deportiva;Deportes;San Miguel;9.75;55;23;SportSV;536.25;Adecuado
+P034;Botella deportiva;Deportes;La Libertad;9.75;33;23;SportSV;321.75;Adecuado
+P034;Botella deportiva;Deportes;Sonsonate;9.75;34;23;SportSV;331.5;Adecuado
+P035;Colchoneta ejercicio;Deportes;San Salvador;23;30;13;SportSV;690;Adecuado
+P035;Colchoneta ejercicio;Deportes;Santa Ana;23;25;13;SportSV;575;Adecuado
+P035;Colchoneta ejercicio;Deportes;San Miguel;23;27;13;SportSV;621;Adecuado
+P035;Colchoneta ejercicio;Deportes;La Libertad;23;6;13;SportSV;138;Bajo
+P035;Colchoneta ejercicio;Deportes;Sonsonate;23;25;13;SportSV;575;Adecuado
